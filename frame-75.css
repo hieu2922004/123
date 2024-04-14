@@ -1,0 +1,27 @@
+.home54,
+.home55 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.home55 {
+  left: 105px;
+  color: var(--color-gray-300);
+}
+.home-parent23 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 179px;
+  height: 29px;
+}
+.group-parent120 {
+  width: 100%;
+  position: relative;
+  height: 35px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

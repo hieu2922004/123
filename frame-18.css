@@ -1,0 +1,63 @@
+.group-child686,
+.group-child687 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 833px;
+  height: 146px;
+}
+.group-child687 {
+  top: 228px;
+  background-color: var(--color-gray-1900);
+}
+.property-1default2,
+.rectangle-parent310 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 833px;
+  height: 374px;
+}
+.property-1default2 {
+  top: 20px;
+  left: 20px;
+  height: 146px;
+  overflow: hidden;
+}
+.group-child688,
+.group-child689 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 833px;
+  height: 146px;
+}
+.group-child689 {
+  top: 228px;
+  background-color: var(--color-gray-1900);
+}
+.property-1variant22,
+.rectangle-parent311 {
+  position: absolute;
+  top: -228px;
+  left: 0;
+  width: 833px;
+  height: 374px;
+}
+.property-1variant22 {
+  top: 186px;
+  left: 20px;
+  height: 146px;
+  overflow: hidden;
+}
+.property-1default-root {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  height: 352px;
+  overflow: hidden;
+}

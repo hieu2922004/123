@@ -1,0 +1,21 @@
+.property-1default-icon1,
+.property-1variant2-icon1 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+}
+.property-1variant2-icon1 {
+  top: 58px;
+}
+.property-1default-container {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  height: 96px;
+  overflow: hidden;
+}

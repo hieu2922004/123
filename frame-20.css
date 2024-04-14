@@ -1,0 +1,124 @@
+.group-child710 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 40px;
+  height: 40px;
+}
+.l19 {
+  position: absolute;
+  top: 8px;
+  left: 15px;
+  display: inline-block;
+  width: 23px;
+}
+.group-child711,
+.rectangle-parent326 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+}
+.group-child711 {
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.l20 {
+  position: absolute;
+  top: 8px;
+  left: 15px;
+  display: inline-block;
+  width: 23px;
+}
+.group-parent172,
+.rectangle-parent327 {
+  position: absolute;
+  top: 0;
+  left: 81px;
+  width: 40px;
+  height: 40px;
+}
+.group-parent172 {
+  left: 0;
+  width: 121px;
+}
+.group-child712,
+.property-1default8 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+}
+.property-1default8 {
+  top: 20px;
+  left: 20px;
+  overflow: hidden;
+}
+.group-child712 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+}
+.l21 {
+  position: absolute;
+  top: 8px;
+  left: 15px;
+  display: inline-block;
+  width: 23px;
+}
+.group-child713,
+.rectangle-parent328 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+}
+.group-child713 {
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.l22 {
+  position: absolute;
+  top: 8px;
+  left: 15px;
+  display: inline-block;
+  width: 23px;
+}
+.rectangle-parent329 {
+  position: absolute;
+  top: 0;
+  left: 81px;
+  width: 40px;
+  height: 40px;
+}
+.group-parent173,
+.property-1variant28 {
+  position: absolute;
+  top: 0;
+  left: -81px;
+  width: 121px;
+  height: 40px;
+}
+.property-1variant28 {
+  top: 80px;
+  left: 20px;
+  width: 40px;
+  overflow: hidden;
+}
+.property-1default-parent3 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  height: 140px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

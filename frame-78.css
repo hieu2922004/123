@@ -1,0 +1,27 @@
+.group56,
+.group57 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.group57 {
+  left: 94px;
+  color: var(--color-gray-400);
+}
+.group-parent125 {
+  position: absolute;
+  top: 0;
+  left: 5px;
+  width: 179px;
+  height: 29px;
+}
+.group-parent124 {
+  width: 100%;
+  position: relative;
+  height: 35px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

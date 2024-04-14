@@ -1,0 +1,63 @@
+.group-child718,
+.group-child719 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 40px;
+  height: 40px;
+}
+.group-child719 {
+  left: 66px;
+  background-color: var(--color-gray-1200);
+}
+.property-1default10,
+.rectangle-parent334 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 106px;
+  height: 40px;
+}
+.property-1default10 {
+  top: 20px;
+  left: 20px;
+  width: 40px;
+  overflow: hidden;
+}
+.group-child720,
+.group-child721 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 40px;
+  height: 40px;
+}
+.group-child721 {
+  left: 66px;
+  background-color: var(--color-gray-1200);
+}
+.property-1variant210,
+.rectangle-parent335 {
+  position: absolute;
+  top: 0;
+  left: -66px;
+  width: 106px;
+  height: 40px;
+}
+.property-1variant210 {
+  top: 80px;
+  left: 20px;
+  width: 40px;
+  overflow: hidden;
+}
+.property-1default-parent5 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  height: 140px;
+  overflow: hidden;
+}

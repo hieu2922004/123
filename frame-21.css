@@ -1,0 +1,124 @@
+.group-child714 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 40px;
+  height: 40px;
+}
+.xl12 {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  display: inline-block;
+  width: 32px;
+}
+.group-child715,
+.rectangle-parent330 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+}
+.group-child715 {
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.xl13 {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  display: inline-block;
+  width: 32px;
+}
+.group-parent174,
+.rectangle-parent331 {
+  position: absolute;
+  top: 0;
+  left: 72px;
+  width: 40px;
+  height: 40px;
+}
+.group-parent174 {
+  left: 0;
+  width: 112px;
+}
+.group-child716,
+.property-1default9 {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+}
+.property-1default9 {
+  top: 20px;
+  left: 20px;
+  overflow: hidden;
+}
+.group-child716 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+}
+.xl14 {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  display: inline-block;
+  width: 32px;
+}
+.group-child717,
+.rectangle-parent332 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 40px;
+}
+.group-child717 {
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.xl15 {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  display: inline-block;
+  width: 32px;
+}
+.rectangle-parent333 {
+  position: absolute;
+  top: 0;
+  left: 72px;
+  width: 40px;
+  height: 40px;
+}
+.group-parent175,
+.property-1variant29 {
+  position: absolute;
+  top: 0;
+  left: -72px;
+  width: 112px;
+  height: 40px;
+}
+.property-1variant29 {
+  top: 80px;
+  left: 20px;
+  width: 40px;
+  overflow: hidden;
+}
+.property-1default-parent4 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  height: 140px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
